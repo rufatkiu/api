@@ -7,7 +7,7 @@
     "supported": ["English", "French"],
     "error_message": "Language not supported, see the docs here: https://docs.muetab.com/api/endpoints#get-quote-languages"
   },
-  "umami": true,
+  "umami": false,
   "chrome_extension": "chrome-extension://bngmbednanpcfochchhgbkookpiaiaid",
   "edge_extension": "chrome-extension://aepnglgjfokepefimhbnibfjekidhmja",
   "whale_extension": "chrome-extension://ecllekeilcmicbfkkiknfdddbogibbnc",
