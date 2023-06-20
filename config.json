@@ -1,7 +1,7 @@
 {
   "hello_world": {
     "version": "1.6.1",
-    "message": "Hello World! API docs: https://docs.muetab.com/api/introduction"
+    "message": "Hello World!"
   },
   "quote_languages": {
     "supported": ["English", "French"],
