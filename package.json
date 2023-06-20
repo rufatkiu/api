@@ -16,4 +16,5 @@
     "node-fetch": "2.6.9",
     "ua-parser-js": "1.0.34",
     "webextension-store-meta": "1.0.5"
+    }
 }
