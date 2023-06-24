@@ -24,7 +24,7 @@ module.exports = async (req, res) => {
   }
 
   const { data } = await supabase
-  .from('old_images')
+  .from('images')
   .select('category');
 
   const array = [];
